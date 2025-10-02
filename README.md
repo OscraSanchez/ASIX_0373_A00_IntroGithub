@@ -46,4 +46,4 @@ En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
 
 ## Imagenes
 
-![alt text](./img1.png "Imagen de escalada")
+![alt text](./img2.jpg "Imagen de escalada")
