@@ -60,13 +60,6 @@ En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
 
 ------------------------------------------
 
-### Referencias
-
-> * List item 1
-> * List item 2
-> * List item 3
-
-
 ### Notas
 
 > [!NOTE]
