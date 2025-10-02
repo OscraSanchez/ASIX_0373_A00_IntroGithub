@@ -53,7 +53,34 @@ En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
 ## Tablas
 
 |*Jugador*|Equipo|Nombre|
-|:------:|---------:|:---------|
+|:------:|---------|---------|
 |**32**|Lakers|Magic Johnson|
 |33|Celtics|Boston Celtics|
 |23|Bulls|Michael "air" Jordan|
+
+------------------------------------------
+
+### Referencias
+
+Hola[1]
+
+
+[1] Referencia de Hola
+
+
+### Notas
+
+> [!NOTE]
+> Information the user should notice even if skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Essential information required for user success.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> [!WARNING]
+> Dangerous certain consequences of an action.
