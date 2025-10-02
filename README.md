@@ -6,23 +6,23 @@ Esto esta en __Negrita__ y esto **tambien**
 Esto esta en *Cursiva* y esta _tambien_
 Esto esta ~~tachado~~
 
-ABRIR ETIQUETA 1
-    ABRIR ETIQUETA 2
-        Contenido
-    CERRAR ETIQUETA 2
-CERRAR ETIQUETA 1
+ABRIR ETIQUETA 1  
+    ABRIR ETIQUETA 2  
+        Contenido  
+    CERRAR ETIQUETA 2  
+CERRAR ETIQUETA 1  
 
 -----------------------------------
 
 ## Listas Ordenada
 
-1. Elemento 1  
-    * Elemento desordenado 1.1  
-    * Elemento desordenado 1.2  
-2. Elemento 2  
-    * Elemento desordenado 2.1  
-    * Elemento desordenado 2.2  
-3. Elemento 3  
+1. Elemento 1
+    * Elemento desordenado 1.1
+    * Elemento desordenado 1.2
+2. Elemento 2
+    * Elemento desordenado 2.1
+    * Elemento desordenado 2.2
+3. Elemento 3
 
 ## Listas desordenada
 
@@ -42,4 +42,8 @@ En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
 
 ## Link
 
-[link](https://github.com/OscraSanchez/ASIX_0373_A00_IntroGithub "Texto opcional")
+[Nobre que sale](https://github.com/OscraSanchez/ASIX_0373_A00_IntroGithub "Texto opcional al pasar el cursor")
+
+## Imagenes
+
+![alt text](./img1.png "Imagen de escalada")
