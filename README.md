@@ -16,13 +16,13 @@ CERRAR ETIQUETA 1
 
 ## Listas Ordenada
 
-1. Elemento 1
-    * Elemento desordenado 1.1
-    * Elemento desordenado 1.2
-2. Elemento 2
-    * Elemento desordenado 2.1
-    * Elemento desordenado 2.2
-3. Elemento 3
+1. Elemento 1  
+    * Elemento desordenado 1.1  
+    * Elemento desordenado 1.2  
+2. Elemento 2  
+    * Elemento desordenado 2.1  
+    * Elemento desordenado 2.2  
+3. Elemento 3  
 
 ## Listas desordenada
 
@@ -30,4 +30,16 @@ CERRAR ETIQUETA 1
 * Elemento desordenado 2
 * Elemento desordenado 3
 
+-------------------------------------
 
+## Codigo
+```html
+<p> Esto es texto de html </p>
+```
+En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
+
+-------------------------------------
+
+## Link
+
+[link](https://github.com/OscraSanchez/ASIX_0373_A00_IntroGithub)
