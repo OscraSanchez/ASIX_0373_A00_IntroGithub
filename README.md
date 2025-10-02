@@ -52,7 +52,8 @@ En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
 
 ## Tablas
 
-|Jugador|Equipo|Nombre|
+|*Jugador*|**Equipo**|Nombre|
+|------------|---------|---------|
 |32|Lakers|Magic Johnson|
 |33|Celtics|Boston Celtics|
 |23|Bulls|Michael "air" Jordan|
