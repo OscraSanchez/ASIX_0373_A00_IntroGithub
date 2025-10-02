@@ -42,4 +42,4 @@ En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
 
 ## Link
 
-[link](https://github.com/OscraSanchez/ASIX_0373_A00_IntroGithub)
+[link](https://github.com/OscraSanchez/ASIX_0373_A00_IntroGithub Nombre que queramos para el link)
