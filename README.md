@@ -62,10 +62,9 @@ En el ejemplo html se puede cambiar por cualquier tipo de lenguaje
 
 ### Referencias
 
-Hola[1]
-
-
-[1] Referencia de Hola
+> * List item 1
+> * List item 2
+> * List item 3
 
 
 ### Notas
